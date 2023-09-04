@@ -16,5 +16,3 @@ Teachable machine: https://teachablemachine.withgoogle.com/train/image
 Android studio: https://developer.android.com/studio
 
 Voice recorder: https://online-voice-recorder.com/
-
-Project by: Aishwarya S 19MIA1063, Keerthana Madhavan 19MIA1073, Podalakuru Sahithya 19MIA1084
